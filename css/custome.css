@@ -1,0 +1,16 @@
+td {
+    width: 76px;
+    height: 76px;
+    background: lightgray;
+}
+span,p {
+    padding: 15px;
+    color: #555;
+    font-size: 45px;
+}
+button{
+    padding: 10px;
+    color: #555;
+    font-size: 20px;
+
+}
